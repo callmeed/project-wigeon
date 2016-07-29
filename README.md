@@ -21,7 +21,7 @@ NOTE: with regards to interviews, this will probably only be useful for intervie
 
 Clone the project. Start at exercise 1. 
 
-## I don't like one of your solutions, can I submit a pull-request? 
+## I have a new/better solution to an exercise, can I submit a pull-request? 
 
 Sure.
 
