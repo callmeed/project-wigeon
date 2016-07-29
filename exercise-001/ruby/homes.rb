@@ -30,3 +30,15 @@ home_values.each_with_index do |value, index|
   end
   puts "\n"
 end
+
+# Step 6: min and max
+min = home_values.min
+max = home_values.max
+puts "The min home value is $#{min}"
+puts "The max home value is $#{max}"
+
+# Step 7: mean
+# NOTE: another option is .inject { |sum, n| sum + n }
+sum = home_values.inject(:+).to_f
+mean = (sum / home_values.size).round
+puts "The mean home value is $#{mean}"
