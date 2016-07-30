@@ -2,7 +2,7 @@
 
 ## Fizz Buzz Plus: Arrays, loops, ifs, math and some string interpolation
 
-This is a very basic, getting started type of exercise. Much like the classic "Fizz Buzz" exercise, but with a few extras.
+This is a very basic, getting started type of exercise. Much like the classic "Fizz Buzz" problem, but with a few extras.
 If you consider yourself an experienced programmer, you _should_ know how to do this. The challenge is to learn how to do
 it in a new language.
 
@@ -33,7 +33,7 @@ it in a new language.
   - Be sure the counter value in your messages starts at 1
   - Use string interpolation over concatenation (if your language supports it)
   - IF a value is divisible by 5, print another message _"WARNING: Home requires re-assessment"_
-  - Include a blank line after each message BUT keep any warnings directly under its value message 
+  - Include a blank line after each message BUT keep any warnings directly under its value message
 
 6. Print the max and min home values with a message
   - Example: _"The max home value is $X and the min home value is $Y"_

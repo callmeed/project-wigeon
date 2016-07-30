@@ -1,3 +1,7 @@
 ##
 # We don't want user data in our Swift playgrounds
 xcuserdata
+
+##
+# Stupid Mac Finder files
+.DS_Store 
