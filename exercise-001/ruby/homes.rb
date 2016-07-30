@@ -26,7 +26,7 @@ home_values.each_with_index do |value, index|
   puts "Home #{counter}. has an assessed value of $#{value}"
   # Check for divisibility by 5 (mod)
   if value % 5 == 0
-    puts "Warning: Home require re-assessment"
+    puts "WARNING: Home requires re-assessment"
   end
   puts "\n"
 end
