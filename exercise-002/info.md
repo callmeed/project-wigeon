@@ -14,7 +14,7 @@ do some research to determine the best-practices for abstraction in that languag
 
 ## Instructions
 
-1. Create a class Player to represent an NFL football player. The Player class
+* Create a class Player to represent an NFL football player. The Player class
 should have the following attributes/properties:
   - Name (String)
   - Jersey Number (Integer)
@@ -25,16 +25,16 @@ should have the following attributes/properties:
 
 **NOTE:** If the language supports Enums, position should be an enum of:
 ['QB', 'RB', 'WR', 'TE', 'OL', 'C', 'G', 'T', 'K', 'LB', 'DB', 'CB', 'S'].
-If not, just use a string. 
+If not, just use a string.
 
-2. The Player class should have a constructor/initializer that sets the name,
+* The Player class should have a constructor/initializer that sets the name,
 jersey number, and position. The Active attribute should default to `TRUE`.
 
-3. Create an instance method `heightString()` (or `height_string()`) that returns
+* Create an instance method `heightString()` (or `height_string()`) that returns
 a string of the player's height in feet and inches (like `6'3"`). If the player's
 height is not set, return "N/A"
 
-4. Create a sub-class of Player called OffensivePlayer. It should have the following
+* Create a sub-class of Player called OffensivePlayer. It should have the following
 additional attributes:
   - Receiving Yards (Integer)
   - Receiving Touchdowns (Integer)
@@ -42,22 +42,22 @@ additional attributes:
   - Rushing Touchdowns (Integer)
   - Fumbles (Integer)
 
-5. Create 2 methods "Total Yards" and "Total Touchdowns" for OffensivePlayer that
+* Create 2 methods "Total Yards" and "Total Touchdowns" for OffensivePlayer that
 return the sum of the appropriate rushing/receiving values.
 
-6. Create a sub-class of OffensivePlayer called Quarterback. It should have the
+* Create a sub-class of OffensivePlayer called Quarterback. It should have the
 following additional attributes:
 - Completions (Integer)
 - Attempts (Integer)
 - Passing Yards (Integer)
 - Interceptions (Integer)
 
-7. Create a method "Passer Rating" for the Quarterback class. It should calculate
+* Create a method "Passer Rating" for the Quarterback class. It should calculate
 the rating (as a Float/Double) using the formula here:
 https://en.wikipedia.org/wiki/Passer_rating#NFL_and_CFL_formula
 
 <!-- TODO: Finish with some object instantiation -->
-8. *COMING SOON*
+* *COMING SOON*
 
 **NOTE:** Each class you create should be a separate file. Also, create a file `football`
 that includes/requires the other files, does object instantiation and handles output.
