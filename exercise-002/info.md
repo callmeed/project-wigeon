@@ -47,17 +47,17 @@ return the sum of the appropriate rushing/receiving values.
 
 * Create a sub-class of OffensivePlayer called Quarterback. It should have the
 following additional attributes:
-- Completions (Integer)
-- Attempts (Integer)
-- Passing Yards (Integer)
-- Interceptions (Integer)
+  - Completions (Integer)
+  - Attempts (Integer)
+  - Passing Yards (Integer)
+  - Interceptions (Integer)
 
 * Create a method "Passer Rating" for the Quarterback class. It should calculate
 the rating (as a Float/Double) using the formula here:
 https://en.wikipedia.org/wiki/Passer_rating#NFL_and_CFL_formula
 
 <!-- TODO: Finish with some object instantiation -->
-* *COMING SOON*
+* *MORE COMING SOON*
 
 **NOTE:** Each class you create should be a separate file. Also, create a file `football`
 that includes/requires the other files, does object instantiation and handles output.
