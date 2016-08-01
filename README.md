@@ -1,4 +1,6 @@
-# Project Mallard
+# Project <del>Mallard</del> Wigeon
+
+_NOTE: This was originally Project Mallard but another software project by that name exists. So Wigeon it is._
 
 Programming exercises for the real world. Emphasis on learning a new language or interviews.
 
@@ -24,10 +26,10 @@ NOTE: with regards to interviews, this will probably only be useful for intervie
 3. When you're done, compare to the appropriate solution in the repo
 4. If you have a new or better solution, submit a pull request
 
-## Why "Mallard"?
+## A Wigeon is a Type of Duck
 
 Ducks can fly, swim, and walk. They aren't the best at any one, but they get the job done. They're like the polyglot, full-stack developer of the animal world.
 
 Have you ever seen a dolphin walk? Have you ever seen a cheetah fly? Didn't think so. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/1920px-Anas_platyrhynchos_male_female_quadrat.jpg" alt="2 Mallard Ducks" style="max-width:100%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/American_Wigeon_pair.JPG/1280px-American_Wigeon_pair.JPG" alt="2 Mallard Ducks" style="max-width:100%;" />
